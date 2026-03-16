@@ -1,0 +1,5 @@
+,pred_grasp,pred_greedy,pred_ils,pred_vns
+true_grasp,45,6,3,4
+true_greedy,20,16,3,14
+true_ils,16,11,21,7
+true_vns,118,67,14,335

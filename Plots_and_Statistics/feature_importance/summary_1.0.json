@@ -1,0 +1,21 @@
+{
+  "scope": "1.0",
+  "n_train": 2800,
+  "n_eval": 700,
+  "n_features": 45,
+  "acc": 0.8429,
+  "f1_macro": 0.7572,
+  "acc_after_drop_nonpos": 0.8414,
+  "f1_after_drop_nonpos": 0.7569,
+  "dropped_nonpos_features": [
+    "hull_area",
+    "hull_vertices",
+    "knn_12__degree_avg",
+    "knn_3__clustering_avg",
+    "knn_5__degree_max",
+    "mst__mst_edge_sum_units_m",
+    "mst__mst_edge_sum_units_s",
+    "nng_plain__clustering_avg",
+    "rad_0_5__clustering_avg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "scope": "10.0",
+  "n_train": 2800,
+  "n_eval": 700,
+  "n_features": 45,
+  "acc": 0.8043,
+  "f1_macro": 0.6834,
+  "acc_after_drop_nonpos": 0.8,
+  "f1_after_drop_nonpos": 0.678,
+  "dropped_nonpos_features": [
+    "delaunay__degree_max",
+    "hull_vertices",
+    "knn_12__degree_max",
+    "knn_3__clustering_avg",
+    "knn_3__component_avg_size",
+    "knn_3__components",
+    "knn_3__degree_max",
+    "knn_5__components",
+    "knn_5__degree_max",
+    "knn_8__clustering_avg",
+    "knn_8__degree_max",
+    "mst__mst_edge_sum_units_m",
+    "nng_plain__clustering_avg",
+    "nng_plain__degree_max",
+    "rad_1_0__clustering_avg"
+  ]
+}

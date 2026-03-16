@@ -1,0 +1,18 @@
+{
+  "budget_B": 25.0,
+  "cluster_std": 0.05,
+  "clusters": 4,
+  "d_nn": 0.016736815630589836,
+  "depot_score_zero": true,
+  "format": "TXT: n <n>, m 1, tmax <B>, dann x y score pro Zeile (Depot = erste Zeile)",
+  "hotspot_bonus": 3,
+  "hotspots": 4,
+  "n": 150,
+  "name": "mix_clustered_n150_s44563",
+  "score_max": 5,
+  "score_min": 1,
+  "scores": "hotspots",
+  "seed": 44563,
+  "tau": 1.2,
+  "type": "clustered"
+}
